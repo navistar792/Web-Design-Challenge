@@ -4,6 +4,9 @@
 ### This was a good opportunity for me to use some of the new bootstrap 5 features that I haven't used yet 
 
 ### All pages
+
+* as an experiment, i set up my github repositiories with a "real" .com address - norver.com. This required me to set up the dns servers on the host (network solutions), and I had to set up the DNS settings and connection to github on Cloudfare 
+
 #### Left side of menu
 * The "Web Design Challenge" text on the top left always returns the user to the home page (index.html)
 
